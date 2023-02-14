@@ -311,12 +311,9 @@ header{
 /* MAIN */
 
 .container-decoration {
-    width: 100%;
-    height: 82.8vh;
+    height: 80vh;
     padding: 1rem 2rem;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 10%;
+    background-position: 40%;
 }
 
 .titulo-pagina {
@@ -339,7 +336,7 @@ br{
 }
 
 .boton-div{
-    padding: 2rem 0;
+    padding: 2.8rem 0;
 }
 
 .boton-div .variedades-a{
