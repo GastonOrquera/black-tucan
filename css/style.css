@@ -311,7 +311,7 @@ header{
 /* MAIN */
 
 .container-decoration {
-    height: 28.8rem;
+    height: 100%;
     padding: 1rem 2rem;
     background-position: 40%;
 }
